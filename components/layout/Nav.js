@@ -41,7 +41,7 @@ export default function Nav() {
           </li>
 
           <li className={styles.nav__listItem}>
-            <Link href='/'>API-Project</Link>
+            <Link href='/api_product'>API-Project</Link>
           </li>
         </ul>
       </nav>
